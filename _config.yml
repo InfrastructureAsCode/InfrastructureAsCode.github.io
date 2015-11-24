@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Infrastructure As Code
+tagline:             'Jenkins, Docker, and the REST'
+description:         'Bits about the dayly struggle'
+url:                 http://infrastructureascode.github.io/
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Thomas William
+  url:               http://infrastructureascode.github.io/
+  email:             thomas.william@citrix.com
+
+# Custom vars
+version:             0.0.1
